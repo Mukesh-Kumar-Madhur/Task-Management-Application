@@ -1,0 +1,7 @@
+admin, adm1n
+johndoe, pass123
+janedoe, qwerty456
+alice, password1
+bob, secure789
+Mukesh, mkm123
+Kailash, K@1

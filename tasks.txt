@@ -1,0 +1,14 @@
+admin, Plan team meeting, Schedule and plan the next team meeting, 2024-07-19, 2024-07-15, Yes
+Mukesh, Review project progress, Analyze and report on the current project status, 2024-08-20, 2024-10-10, Yes
+johndoe, Plan team meeting, Schedule and plan the next team meeting, 2024-07-19, 2024-07-15, Yes
+johndoe, Submit budget report, Prepare and submit the Q2 budget report, 2024-08-10, 2024-08-01, No
+janedoe, Plan team meeting, Schedule and plan the next team meeting, 2024-07-19, 2024-07-15, Yes
+janedoe, Update documentation, Revise and update the project documentation, 2024-08-25, 2024-08-01, No
+alice, Plan team meeting, Schedule and plan the next team meeting, 2024-07-19, 2024-07-15, Yes
+alice, Organize workshop, Prepare and organize the upcoming training workshop, 2024-08-15, 2024-08-01, No
+bob, Plan team meeting, Schedule and plan the next team meeting, 2024-07-19, 2024-07-15, Yes
+bob, Conduct client meeting, Arrange and conduct the quarterly client meeting, 2024-08-30, 2024-08-01, No
+Mukesh, Plan team meeting, Schedule and plan the next team meeting, 2024-07-19, 2024-07-15, Yes
+Mukesh, Finalize contract, Review and finalize the new vendor contract, 2024-08-05, 2024-08-01, No
+Mukesh, Complete assignment, completee the python and tableau assignment before due date, 2024-08-08, 2020-10-10, No
+bob, solve task, get the students doubt solved, 2024-08-08, 2024-11-11, No

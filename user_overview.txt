@@ -1,0 +1,45 @@
+Total users: 6
+Total tasks: 14
+
+User: admin
+Total tasks: 1
+Task percentage: 7.14%
+Completed tasks: 1
+Incomplete tasks: 0
+Overdue tasks: 0
+
+User: Mukesh
+Total tasks: 4
+Task percentage: 28.57%
+Completed tasks: 2
+Incomplete tasks: 2
+Overdue tasks: 2
+
+User: johndoe
+Total tasks: 2
+Task percentage: 14.29%
+Completed tasks: 1
+Incomplete tasks: 1
+Overdue tasks: 1
+
+User: janedoe
+Total tasks: 2
+Task percentage: 14.29%
+Completed tasks: 1
+Incomplete tasks: 1
+Overdue tasks: 1
+
+User: alice
+Total tasks: 2
+Task percentage: 14.29%
+Completed tasks: 1
+Incomplete tasks: 1
+Overdue tasks: 1
+
+User: bob
+Total tasks: 3
+Task percentage: 21.43%
+Completed tasks: 1
+Incomplete tasks: 2
+Overdue tasks: 1
+
